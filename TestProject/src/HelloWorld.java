@@ -4,6 +4,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
 		//new comment
         System.out.println("Hello, Kumar World");
+        System.out.println("Hello, Senthil World");
         //end
     }
 
