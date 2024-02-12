@@ -6,6 +6,10 @@ public class HelloWorld {
         System.out.println("Hello, Kumar World");
         System.out.println("Hello, Senthil World");
         //end
-    }
+	}
+        public static void sendNotification(String message) {
+        	//Added new mthod
+        }
+    
 
 }
